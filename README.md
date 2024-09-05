@@ -1,3 +1,18 @@
+
+
+# Landing Page Designs
+
+This repository showcases various landing pages designed using tools like **Motiff** and **Fugma**. Each landing page is crafted with a focus on modern aesthetics, user experience, and responsiveness. The designs demonstrate proficiency in creating visually appealing layouts for diverse industries and purposes.
+
+- Responsive layouts
+- Clean and minimalistic design
+- Optimized for performance
+- Built using Motiff and Fugma design tools
+
+Feel free to explore the designs and provide feedback!
+```
+
+This should give visitors a good idea of your project while highlighting the tools used.
 Landing Page 1
 ![Screenshot 2024-08-31 014743](https://github.com/user-attachments/assets/6fb2ac02-3683-4ee8-8daa-1eb9d3eaf9d0)
 
