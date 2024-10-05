@@ -6,7 +6,7 @@ This repository showcases various landing pages designed using tool **Motiff** L
 
 - ## Responsive layouts
 - ## Clean and minimalistic design
-- Optimized for performance
+- ## Optimized for performance
 - Built using Motiff and Fugma design tools
 
 Feel free to explore the designs and provide feedback!
