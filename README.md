@@ -4,7 +4,7 @@
 
 This repository showcases various landing pages designed using tool **Motiff** Like as simple as Figma **Fma**. Each landing page is crafted with a focus on modern aesthetics, user experience, and responsiveness. The designs demonstrate proficiency in creating visually appealing layouts for diverse industries and purposes.
 
-- Responsive layouts
+- ## Responsive layouts
 - Clean and minimalistic design
 - Optimized for performance
 - Built using Motiff and Fugma design tools
