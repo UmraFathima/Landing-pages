@@ -2,12 +2,7 @@
 
 # Landing Page Designs
 
-This repository showcases various landing pages designed using tool **Motiff** Like as simple as Figma **Fma**. Each landing page is crafted with a focus on modern aesthetics, user experience, and responsiveness. The designs demonstrate proficiency in creating visually appealing layouts for diverse industries and purposes.
-
-- ## Responsive layouts
-- ## Clean and minimalistic design
-- ## Optimized for performance
-- ## Built using Motiff and Figma design tools
+This repository showcases various landing pages designed using tool **Motiff** Like as simple as Figma **Figma**. Each landing page is crafted with a focus on modern aesthetics, user experience, and responsiveness. The designs demonstrate proficiency in creating visually appealing layouts for diverse industries and purposes.
 
 Feel free to explore the designs and provide feedback!
 
@@ -21,5 +16,13 @@ Landing Page 2
 
 Landing Page 3
 ![Screenshot 2024-08-31 014805](https://github.com/user-attachments/assets/02aed661-7d4b-4ac2-a807-3c22bca7b237)
+
+
+- ## Responsive layouts
+- ## Clean and minimalistic design
+- ## Optimized for performance
+- ## Built using Motiff and Figma design tools
+
+
 
 #Figma #Motiff #Landing_pages
